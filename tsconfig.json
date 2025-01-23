@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "baseUrl": ".", // relative path resolution
+    "paths": {
+      "@/*": ["./src/*"], 
+      "@/components/*": ["./src/components/*"] // Alias for components
+    }
+  },
+  "include": [
+    "**/*.ts",
+    "**/*.tsx"
+  ],
+  "extends": "expo/tsconfig.base"
+}
