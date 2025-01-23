@@ -13,7 +13,25 @@ A React Native application to browse and view detailed information about charact
    - Gender
    - Origin
    - Current location
+     
+---
 
+## Installation and Setup
+
+Follow these steps to get started:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/RickAndMortyApp.git
+   cd RickAndMortyApp
+   ```
+
+2. Install dependencies:
+
+   ```bash
+   npm install
+   ```
 ---
 
 ## Running the App
