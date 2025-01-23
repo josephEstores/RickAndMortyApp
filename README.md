@@ -32,6 +32,9 @@ Follow these steps to get started:
    ```bash
    npm install
    ```
+
+3. Setup Android device or virtual emulator in Android Studio
+   
 ---
 
 ## Running the App
@@ -48,6 +51,7 @@ Follow these steps to get started:
 
 - Displays a list of characters with their names and images.
 - Clicking a character navigates to the details screen.
+- Search bar to filter characters by name
 
 ### 2. Character Details Screen
 
