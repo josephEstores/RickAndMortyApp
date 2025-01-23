@@ -33,7 +33,7 @@ Follow these steps to get started:
    npm install
    ```
 
-3. Setup Android device or virtual emulator in Android Studio
+3. Setup Android (or iOS) device or virtual emulator in Android Studio (or Xcode for iOS)
    
 ---
 
